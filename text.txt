@@ -1,2 +1,4 @@
-je suis un fichier .txt
+Je suis un fichier .txt
 Je suis une nouvelle ligne
+Je suis une nouvelle nouvelle ligne
+Je suis une autre ligne | conflit
