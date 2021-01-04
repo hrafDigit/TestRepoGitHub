@@ -1,6 +1,6 @@
 Je suis un fichier .txt
 Je suis une nouvelle ligne
 Je suis une autre ligne
-Je suis une autre  ligne mais différente
+Je suis une autre ligne mais différente
 Je suis une phrase
 Je suis une autre phrase
