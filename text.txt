@@ -4,3 +4,4 @@ Je suis une nouvelle nouvelle ligne
 Je suis une autre ligne | conflit
 Je suis une autre nouvelle ligne mais différente | pour illustrer le conflit à gérer via Vim
 Je suis une phrase
+Je suis une autre git checkoutphrase
